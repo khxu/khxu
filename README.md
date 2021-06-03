@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Kevin. I try to help and occasionally succeed.
+
+Here's the cat who reduces my productivity by 50% each and every day:
+
+![IMG_7957](https://user-images.githubusercontent.com/4744405/120682440-4ee5a500-c451-11eb-9957-db67ac03bdf0.JPG)
+
 <!--
 **khxu/khxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
